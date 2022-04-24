@@ -1,6 +1,6 @@
 # pyController
 由01Studio发起的MicroPython开源遥控/游戏手柄。  
-![pyCar](https://github.com/01studio-lab/pyCar/blob/main/docs/manual/media/pyController.jpg)
+![pyController](https://www.01studio.cc/data/picture/pyController.png)
 
 ## 项目简介
 Micropython是指使用python做各类嵌入式硬件设备编程。MicroPython发展势头强劲，01Studio一直致力于Python嵌入式编程，特此推出pyController开源项目，旨在让MicroPython变得更加流行。使用MicroPython，你可以轻松地实现手柄控制、NES游戏、蓝牙WiFi遥控等功能。
