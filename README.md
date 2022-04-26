@@ -47,6 +47,7 @@ https://pycontroller.01studio.cc/zh_CN/latest/manual/quickref.html
 
 ### firmware
 pyController的MicroPython固件。
+https://github.com/01studio-lab/micropython/tree/master/ports/esp32/boards/PYCONTROLLER
 
 ### hardware
 硬件资料，原理图、尺寸图等。
@@ -55,7 +56,8 @@ pyController的MicroPython固件。
 更新日志。
 
 ## 贡献用户
-【CaptainJacky】 pyController项目发起人，负责硬件和MicroPython软件设计。    
+【CaptainJacky】 pyController项目发起人，负责硬件和MicroPython软件设计。
+【Spring641】pyController MicroPython底层开发。    
 
 欢迎参与项目贡献！
 

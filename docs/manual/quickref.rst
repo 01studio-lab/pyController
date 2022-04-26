@@ -8,11 +8,6 @@ pyController用户手册
 
 .. figure:: media/pyController.png
 
-* `pyController 原理图 <https://www.01studio.cc/data/sch/pyController_Sch.pdf>`_ (PDF)
-
-组装pyController
-------------------
-- 组装教程：https://bbs.01studio.cc/
 
 教程资料
 -----------------
