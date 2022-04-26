@@ -56,7 +56,7 @@ https://github.com/01studio-lab/micropython/tree/master/ports/esp32/boards/PYCON
 更新日志。
 
 ## 贡献用户
-【CaptainJacky】 pyController项目发起人，负责硬件和MicroPython软件设计。
+【CaptainJacky】 pyController项目发起人，负责硬件和MicroPython软件设计。    
 【Spring641】pyController MicroPython底层开发。    
 
 欢迎参与项目贡献！
