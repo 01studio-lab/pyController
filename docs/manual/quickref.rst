@@ -13,7 +13,7 @@ pyController用户手册
 -----------------
 pyController是基于MicroPython实现，01Studio提供完整的入门教程和代码相关资料:
 
-https://download.01studio.cc/
+https://download.01studio.cc/zh_CN/latest/project/pyController/pyController.html
 
 
 手柄数据
